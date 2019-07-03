@@ -1,0 +1,1356 @@
+fileFormatVersion: 2
+guid: 58e4dffefbf25214492130b50c82232b
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: BlackSmith_Body
+    100004: Blacksmith_Ctrl:ChestEndEffector
+    100006: Blacksmith_Ctrl:ChestOriginEffector
+    100008: Blacksmith_Ctrl:Head
+    100010: Blacksmith_Ctrl:HeadEffector
+    100012: Blacksmith_Ctrl:Hips
+    100014: Blacksmith_Ctrl:HipsEffector
+    100016: Blacksmith_Ctrl:LeftAnkleEffector
+    100018: Blacksmith_Ctrl:LeftArm
+    100020: Blacksmith_Ctrl:LeftElbowEffector
+    100022: Blacksmith_Ctrl:LeftFingerBase
+    100024: Blacksmith_Ctrl:LeftFoot
+    100026: Blacksmith_Ctrl:LeftFootEffector
+    100028: Blacksmith_Ctrl:LeftForeArm
+    100030: Blacksmith_Ctrl:LeftForeArmRoll
+    100032: Blacksmith_Ctrl:LeftHand
+    100034: Blacksmith_Ctrl:LeftHandEffector
+    100036: Blacksmith_Ctrl:LeftHandIndex1
+    100038: Blacksmith_Ctrl:LeftHandIndex2
+    100040: Blacksmith_Ctrl:LeftHandIndex3
+    100042: Blacksmith_Ctrl:LeftHandIndex4
+    100044: Blacksmith_Ctrl:LeftHandIndexEffector
+    100046: Blacksmith_Ctrl:LeftHandMiddle1
+    100048: Blacksmith_Ctrl:LeftHandMiddle2
+    100050: Blacksmith_Ctrl:LeftHandMiddle3
+    100052: Blacksmith_Ctrl:LeftHandMiddle4
+    100054: Blacksmith_Ctrl:LeftHandMiddleEffector
+    100056: Blacksmith_Ctrl:LeftHandThumb1
+    100058: Blacksmith_Ctrl:LeftHandThumb2
+    100060: Blacksmith_Ctrl:LeftHandThumb3
+    100062: Blacksmith_Ctrl:LeftHandThumb4
+    100064: Blacksmith_Ctrl:LeftHandThumbEffector
+    100066: Blacksmith_Ctrl:LeftHipEffector
+    100068: Blacksmith_Ctrl:LeftKneeEffector
+    100070: Blacksmith_Ctrl:LeftLeg
+    100072: Blacksmith_Ctrl:LeftShoulder
+    100074: Blacksmith_Ctrl:LeftShoulderEffector
+    100076: Blacksmith_Ctrl:LeftToeBase
+    100078: Blacksmith_Ctrl:LeftUpLeg
+    100080: Blacksmith_Ctrl:LeftWristEffector
+    100082: Blacksmith_Ctrl:Neck
+    100084: Blacksmith_Ctrl:Reference
+    100086: Blacksmith_Ctrl:RightAnkleEffector
+    100088: Blacksmith_Ctrl:RightArm
+    100090: Blacksmith_Ctrl:RightElbowEffector
+    100092: Blacksmith_Ctrl:RightFingerBase
+    100094: Blacksmith_Ctrl:RightFoot
+    100096: Blacksmith_Ctrl:RightFootEffector
+    100098: Blacksmith_Ctrl:RightForeArm
+    100100: Blacksmith_Ctrl:RightForeArmRoll
+    100102: Blacksmith_Ctrl:RightHand
+    100104: Blacksmith_Ctrl:RightHandEffector
+    100106: Blacksmith_Ctrl:RightHandIndex1
+    100108: Blacksmith_Ctrl:RightHandIndex2
+    100110: Blacksmith_Ctrl:RightHandIndex3
+    100112: Blacksmith_Ctrl:RightHandIndex4
+    100114: Blacksmith_Ctrl:RightHandIndexEffector
+    100116: Blacksmith_Ctrl:RightHandMiddle1
+    100118: Blacksmith_Ctrl:RightHandMiddle2
+    100120: Blacksmith_Ctrl:RightHandMiddle3
+    100122: Blacksmith_Ctrl:RightHandMiddle4
+    100124: Blacksmith_Ctrl:RightHandMiddleEffector
+    100126: Blacksmith_Ctrl:RightHandThumb1
+    100128: Blacksmith_Ctrl:RightHandThumb2
+    100130: Blacksmith_Ctrl:RightHandThumb3
+    100132: Blacksmith_Ctrl:RightHandThumb4
+    100134: Blacksmith_Ctrl:RightHandThumbEffector
+    100136: Blacksmith_Ctrl:RightHipEffector
+    100138: Blacksmith_Ctrl:RightKneeEffector
+    100140: Blacksmith_Ctrl:RightLeg
+    100142: Blacksmith_Ctrl:RightShoulder
+    100144: Blacksmith_Ctrl:RightShoulderEffector
+    100146: Blacksmith_Ctrl:RightToeBase
+    100148: Blacksmith_Ctrl:RightUpLeg
+    100150: Blacksmith_Ctrl:RightWristEffector
+    100152: Blacksmith_Ctrl:Spine
+    100154: Blacksmith_Ctrl:Spine1
+    100156: Blacksmith_Ctrl:Spine2
+    100158: Blacksmith_HammerHook
+    100160: Blacksmith_Head
+    100162: Blacksmith_Hips
+    100164: Blacksmith_LeftArm
+    100166: Blacksmith_LeftFingerBase
+    100168: Blacksmith_LeftFoot
+    100170: Blacksmith_LeftForeArm
+    100172: Blacksmith_LeftForeArmRoll
+    100174: Blacksmith_LeftHand
+    100176: Blacksmith_LeftHandIndex1
+    100178: Blacksmith_LeftHandIndex2
+    100180: Blacksmith_LeftHandIndex3
+    100182: Blacksmith_LeftHandIndex4
+    100184: Blacksmith_LeftHandMiddle1
+    100186: Blacksmith_LeftHandMiddle2
+    100188: Blacksmith_LeftHandMiddle3
+    100190: Blacksmith_LeftHandMiddle4
+    100192: Blacksmith_LeftHandThumb1
+    100194: Blacksmith_LeftHandThumb2
+    100196: Blacksmith_LeftHandThumb3
+    100198: Blacksmith_LeftHandThumb4
+    100200: Blacksmith_LeftLeg
+    100202: Blacksmith_LeftShoulder
+    100204: Blacksmith_LeftToeBase
+    100206: Blacksmith_LeftUpLeg
+    100208: Blacksmith_Neck
+    100210: Blacksmith_Reference
+    100212: Blacksmith_RightArm
+    100214: Blacksmith_RightFingerBase
+    100216: Blacksmith_RightFoot
+    100218: Blacksmith_RightForeArm
+    100220: Blacksmith_RightForeArmRoll
+    100222: Blacksmith_RightHand
+    100224: Blacksmith_RightHandIndex1
+    100226: Blacksmith_RightHandIndex2
+    100228: Blacksmith_RightHandIndex3
+    100230: Blacksmith_RightHandIndex4
+    100232: Blacksmith_RightHandMiddle1
+    100234: Blacksmith_RightHandMiddle2
+    100236: Blacksmith_RightHandMiddle3
+    100238: Blacksmith_RightHandMiddle4
+    100240: Blacksmith_RightHandThumb1
+    100242: Blacksmith_RightHandThumb2
+    100244: Blacksmith_RightHandThumb3
+    100246: Blacksmith_RightHandThumb4
+    100248: Blacksmith_RightLeg
+    100250: Blacksmith_RightShoulder
+    100252: Blacksmith_RightToeBase
+    100254: Blacksmith_RightUpLeg
+    100256: Blacksmith_Spine
+    100258: Blacksmith_Spine1
+    100260: Blacksmith_Spine2
+    100262: Blacksmith_TorchHook
+    100264: gladiator_body
+    100266: Gladiator_Ctrl:ChestEndEffector
+    100268: Gladiator_Ctrl:ChestOriginEffector
+    100270: Gladiator_Ctrl:Head
+    100272: Gladiator_Ctrl:HeadEffector
+    100274: Gladiator_Ctrl:Hips
+    100276: Gladiator_Ctrl:HipsEffector
+    100278: Gladiator_Ctrl:LeftAnkleEffector
+    100280: Gladiator_Ctrl:LeftArm
+    100282: Gladiator_Ctrl:LeftElbowEffector
+    100284: Gladiator_Ctrl:LeftFoot
+    100286: Gladiator_Ctrl:LeftFootEffector
+    100288: Gladiator_Ctrl:LeftForeArm
+    100290: Gladiator_Ctrl:LeftHand
+    100292: Gladiator_Ctrl:LeftHandIndex1
+    100294: Gladiator_Ctrl:LeftHandIndex2
+    100296: Gladiator_Ctrl:LeftHandIndex3
+    100298: Gladiator_Ctrl:LeftHandIndex4
+    100300: Gladiator_Ctrl:LeftHandIndexEffector
+    100302: Gladiator_Ctrl:LeftHipEffector
+    100304: Gladiator_Ctrl:LeftKneeEffector
+    100306: Gladiator_Ctrl:LeftLeg
+    100308: Gladiator_Ctrl:LeftShoulder
+    100310: Gladiator_Ctrl:LeftShoulderEffector
+    100312: Gladiator_Ctrl:LeftToeBase
+    100314: Gladiator_Ctrl:LeftUpLeg
+    100316: Gladiator_Ctrl:LeftWristEffector
+    100318: Gladiator_Ctrl:Neck
+    100320: Gladiator_Ctrl:Reference
+    100322: Gladiator_Ctrl:RightAnkleEffector
+    100324: Gladiator_Ctrl:RightArm
+    100326: Gladiator_Ctrl:RightElbowEffector
+    100328: Gladiator_Ctrl:RightFoot
+    100330: Gladiator_Ctrl:RightFootEffector
+    100332: Gladiator_Ctrl:RightForeArm
+    100334: Gladiator_Ctrl:RightHand
+    100336: Gladiator_Ctrl:RightHandIndex1
+    100338: Gladiator_Ctrl:RightHandIndex2
+    100340: Gladiator_Ctrl:RightHandIndex3
+    100342: Gladiator_Ctrl:RightHandIndex4
+    100344: Gladiator_Ctrl:RightHandIndexEffector
+    100346: Gladiator_Ctrl:RightHipEffector
+    100348: Gladiator_Ctrl:RightKneeEffector
+    100350: Gladiator_Ctrl:RightLeg
+    100352: Gladiator_Ctrl:RightShoulder
+    100354: Gladiator_Ctrl:RightShoulderEffector
+    100356: Gladiator_Ctrl:RightToeBase
+    100358: Gladiator_Ctrl:RightUpLeg
+    100360: Gladiator_Ctrl:RightWristEffector
+    100362: Gladiator_Ctrl:Spine
+    100364: Gladiator_Ctrl:Spine1
+    100366: Gladiator_Ctrl:Spine2
+    100368: hammer
+    100370: Light
+    100372: Light 1
+    100374: Light 2
+    100376: mixamorig:Head
+    100378: mixamorig:HeadTop_End
+    100380: mixamorig:Hips
+    100382: mixamorig:LeftArm
+    100384: mixamorig:LeftFoot
+    100386: mixamorig:LeftForeArm
+    100388: mixamorig:LeftHand
+    100390: mixamorig:LeftHandIndex1
+    100392: mixamorig:LeftHandIndex2
+    100394: mixamorig:LeftHandIndex3
+    100396: mixamorig:LeftHandIndex4
+    100398: mixamorig:LeftLeg
+    100400: mixamorig:LeftShoulder
+    100402: mixamorig:LeftToe_End
+    100404: mixamorig:LeftToeBase
+    100406: mixamorig:LeftUpLeg
+    100408: mixamorig:Neck
+    100410: mixamorig:RightArm
+    100412: mixamorig:RightFoot
+    100414: mixamorig:RightForeArm
+    100416: mixamorig:RightHand
+    100418: mixamorig:RightHandIndex1
+    100420: mixamorig:RightHandIndex2
+    100422: mixamorig:RightHandIndex3
+    100424: mixamorig:RightHandIndex4
+    100426: mixamorig:RightLeg
+    100428: mixamorig:RightShoulder
+    100430: mixamorig:RightToe_End
+    100432: mixamorig:RightToeBase
+    100434: mixamorig:RightUpLeg
+    100436: mixamorig:Spine
+    100438: mixamorig:Spine1
+    100440: mixamorig:Spine2
+    100442: pyronTorch
+    100444: shieldShape
+    100446: swordShape
+    400000: //RootNode
+    400002: BlackSmith_Body
+    400004: Blacksmith_Ctrl:ChestEndEffector
+    400006: Blacksmith_Ctrl:ChestOriginEffector
+    400008: Blacksmith_Ctrl:Head
+    400010: Blacksmith_Ctrl:HeadEffector
+    400012: Blacksmith_Ctrl:Hips
+    400014: Blacksmith_Ctrl:HipsEffector
+    400016: Blacksmith_Ctrl:LeftAnkleEffector
+    400018: Blacksmith_Ctrl:LeftArm
+    400020: Blacksmith_Ctrl:LeftElbowEffector
+    400022: Blacksmith_Ctrl:LeftFingerBase
+    400024: Blacksmith_Ctrl:LeftFoot
+    400026: Blacksmith_Ctrl:LeftFootEffector
+    400028: Blacksmith_Ctrl:LeftForeArm
+    400030: Blacksmith_Ctrl:LeftForeArmRoll
+    400032: Blacksmith_Ctrl:LeftHand
+    400034: Blacksmith_Ctrl:LeftHandEffector
+    400036: Blacksmith_Ctrl:LeftHandIndex1
+    400038: Blacksmith_Ctrl:LeftHandIndex2
+    400040: Blacksmith_Ctrl:LeftHandIndex3
+    400042: Blacksmith_Ctrl:LeftHandIndex4
+    400044: Blacksmith_Ctrl:LeftHandIndexEffector
+    400046: Blacksmith_Ctrl:LeftHandMiddle1
+    400048: Blacksmith_Ctrl:LeftHandMiddle2
+    400050: Blacksmith_Ctrl:LeftHandMiddle3
+    400052: Blacksmith_Ctrl:LeftHandMiddle4
+    400054: Blacksmith_Ctrl:LeftHandMiddleEffector
+    400056: Blacksmith_Ctrl:LeftHandThumb1
+    400058: Blacksmith_Ctrl:LeftHandThumb2
+    400060: Blacksmith_Ctrl:LeftHandThumb3
+    400062: Blacksmith_Ctrl:LeftHandThumb4
+    400064: Blacksmith_Ctrl:LeftHandThumbEffector
+    400066: Blacksmith_Ctrl:LeftHipEffector
+    400068: Blacksmith_Ctrl:LeftKneeEffector
+    400070: Blacksmith_Ctrl:LeftLeg
+    400072: Blacksmith_Ctrl:LeftShoulder
+    400074: Blacksmith_Ctrl:LeftShoulderEffector
+    400076: Blacksmith_Ctrl:LeftToeBase
+    400078: Blacksmith_Ctrl:LeftUpLeg
+    400080: Blacksmith_Ctrl:LeftWristEffector
+    400082: Blacksmith_Ctrl:Neck
+    400084: Blacksmith_Ctrl:Reference
+    400086: Blacksmith_Ctrl:RightAnkleEffector
+    400088: Blacksmith_Ctrl:RightArm
+    400090: Blacksmith_Ctrl:RightElbowEffector
+    400092: Blacksmith_Ctrl:RightFingerBase
+    400094: Blacksmith_Ctrl:RightFoot
+    400096: Blacksmith_Ctrl:RightFootEffector
+    400098: Blacksmith_Ctrl:RightForeArm
+    400100: Blacksmith_Ctrl:RightForeArmRoll
+    400102: Blacksmith_Ctrl:RightHand
+    400104: Blacksmith_Ctrl:RightHandEffector
+    400106: Blacksmith_Ctrl:RightHandIndex1
+    400108: Blacksmith_Ctrl:RightHandIndex2
+    400110: Blacksmith_Ctrl:RightHandIndex3
+    400112: Blacksmith_Ctrl:RightHandIndex4
+    400114: Blacksmith_Ctrl:RightHandIndexEffector
+    400116: Blacksmith_Ctrl:RightHandMiddle1
+    400118: Blacksmith_Ctrl:RightHandMiddle2
+    400120: Blacksmith_Ctrl:RightHandMiddle3
+    400122: Blacksmith_Ctrl:RightHandMiddle4
+    400124: Blacksmith_Ctrl:RightHandMiddleEffector
+    400126: Blacksmith_Ctrl:RightHandThumb1
+    400128: Blacksmith_Ctrl:RightHandThumb2
+    400130: Blacksmith_Ctrl:RightHandThumb3
+    400132: Blacksmith_Ctrl:RightHandThumb4
+    400134: Blacksmith_Ctrl:RightHandThumbEffector
+    400136: Blacksmith_Ctrl:RightHipEffector
+    400138: Blacksmith_Ctrl:RightKneeEffector
+    400140: Blacksmith_Ctrl:RightLeg
+    400142: Blacksmith_Ctrl:RightShoulder
+    400144: Blacksmith_Ctrl:RightShoulderEffector
+    400146: Blacksmith_Ctrl:RightToeBase
+    400148: Blacksmith_Ctrl:RightUpLeg
+    400150: Blacksmith_Ctrl:RightWristEffector
+    400152: Blacksmith_Ctrl:Spine
+    400154: Blacksmith_Ctrl:Spine1
+    400156: Blacksmith_Ctrl:Spine2
+    400158: Blacksmith_HammerHook
+    400160: Blacksmith_Head
+    400162: Blacksmith_Hips
+    400164: Blacksmith_LeftArm
+    400166: Blacksmith_LeftFingerBase
+    400168: Blacksmith_LeftFoot
+    400170: Blacksmith_LeftForeArm
+    400172: Blacksmith_LeftForeArmRoll
+    400174: Blacksmith_LeftHand
+    400176: Blacksmith_LeftHandIndex1
+    400178: Blacksmith_LeftHandIndex2
+    400180: Blacksmith_LeftHandIndex3
+    400182: Blacksmith_LeftHandIndex4
+    400184: Blacksmith_LeftHandMiddle1
+    400186: Blacksmith_LeftHandMiddle2
+    400188: Blacksmith_LeftHandMiddle3
+    400190: Blacksmith_LeftHandMiddle4
+    400192: Blacksmith_LeftHandThumb1
+    400194: Blacksmith_LeftHandThumb2
+    400196: Blacksmith_LeftHandThumb3
+    400198: Blacksmith_LeftHandThumb4
+    400200: Blacksmith_LeftLeg
+    400202: Blacksmith_LeftShoulder
+    400204: Blacksmith_LeftToeBase
+    400206: Blacksmith_LeftUpLeg
+    400208: Blacksmith_Neck
+    400210: Blacksmith_Reference
+    400212: Blacksmith_RightArm
+    400214: Blacksmith_RightFingerBase
+    400216: Blacksmith_RightFoot
+    400218: Blacksmith_RightForeArm
+    400220: Blacksmith_RightForeArmRoll
+    400222: Blacksmith_RightHand
+    400224: Blacksmith_RightHandIndex1
+    400226: Blacksmith_RightHandIndex2
+    400228: Blacksmith_RightHandIndex3
+    400230: Blacksmith_RightHandIndex4
+    400232: Blacksmith_RightHandMiddle1
+    400234: Blacksmith_RightHandMiddle2
+    400236: Blacksmith_RightHandMiddle3
+    400238: Blacksmith_RightHandMiddle4
+    400240: Blacksmith_RightHandThumb1
+    400242: Blacksmith_RightHandThumb2
+    400244: Blacksmith_RightHandThumb3
+    400246: Blacksmith_RightHandThumb4
+    400248: Blacksmith_RightLeg
+    400250: Blacksmith_RightShoulder
+    400252: Blacksmith_RightToeBase
+    400254: Blacksmith_RightUpLeg
+    400256: Blacksmith_Spine
+    400258: Blacksmith_Spine1
+    400260: Blacksmith_Spine2
+    400262: Blacksmith_TorchHook
+    400264: gladiator_body
+    400266: Gladiator_Ctrl:ChestEndEffector
+    400268: Gladiator_Ctrl:ChestOriginEffector
+    400270: Gladiator_Ctrl:Head
+    400272: Gladiator_Ctrl:HeadEffector
+    400274: Gladiator_Ctrl:Hips
+    400276: Gladiator_Ctrl:HipsEffector
+    400278: Gladiator_Ctrl:LeftAnkleEffector
+    400280: Gladiator_Ctrl:LeftArm
+    400282: Gladiator_Ctrl:LeftElbowEffector
+    400284: Gladiator_Ctrl:LeftFoot
+    400286: Gladiator_Ctrl:LeftFootEffector
+    400288: Gladiator_Ctrl:LeftForeArm
+    400290: Gladiator_Ctrl:LeftHand
+    400292: Gladiator_Ctrl:LeftHandIndex1
+    400294: Gladiator_Ctrl:LeftHandIndex2
+    400296: Gladiator_Ctrl:LeftHandIndex3
+    400298: Gladiator_Ctrl:LeftHandIndex4
+    400300: Gladiator_Ctrl:LeftHandIndexEffector
+    400302: Gladiator_Ctrl:LeftHipEffector
+    400304: Gladiator_Ctrl:LeftKneeEffector
+    400306: Gladiator_Ctrl:LeftLeg
+    400308: Gladiator_Ctrl:LeftShoulder
+    400310: Gladiator_Ctrl:LeftShoulderEffector
+    400312: Gladiator_Ctrl:LeftToeBase
+    400314: Gladiator_Ctrl:LeftUpLeg
+    400316: Gladiator_Ctrl:LeftWristEffector
+    400318: Gladiator_Ctrl:Neck
+    400320: Gladiator_Ctrl:Reference
+    400322: Gladiator_Ctrl:RightAnkleEffector
+    400324: Gladiator_Ctrl:RightArm
+    400326: Gladiator_Ctrl:RightElbowEffector
+    400328: Gladiator_Ctrl:RightFoot
+    400330: Gladiator_Ctrl:RightFootEffector
+    400332: Gladiator_Ctrl:RightForeArm
+    400334: Gladiator_Ctrl:RightHand
+    400336: Gladiator_Ctrl:RightHandIndex1
+    400338: Gladiator_Ctrl:RightHandIndex2
+    400340: Gladiator_Ctrl:RightHandIndex3
+    400342: Gladiator_Ctrl:RightHandIndex4
+    400344: Gladiator_Ctrl:RightHandIndexEffector
+    400346: Gladiator_Ctrl:RightHipEffector
+    400348: Gladiator_Ctrl:RightKneeEffector
+    400350: Gladiator_Ctrl:RightLeg
+    400352: Gladiator_Ctrl:RightShoulder
+    400354: Gladiator_Ctrl:RightShoulderEffector
+    400356: Gladiator_Ctrl:RightToeBase
+    400358: Gladiator_Ctrl:RightUpLeg
+    400360: Gladiator_Ctrl:RightWristEffector
+    400362: Gladiator_Ctrl:Spine
+    400364: Gladiator_Ctrl:Spine1
+    400366: Gladiator_Ctrl:Spine2
+    400368: hammer
+    400370: Light
+    400372: Light 1
+    400374: Light 2
+    400376: mixamorig:Head
+    400378: mixamorig:HeadTop_End
+    400380: mixamorig:Hips
+    400382: mixamorig:LeftArm
+    400384: mixamorig:LeftFoot
+    400386: mixamorig:LeftForeArm
+    400388: mixamorig:LeftHand
+    400390: mixamorig:LeftHandIndex1
+    400392: mixamorig:LeftHandIndex2
+    400394: mixamorig:LeftHandIndex3
+    400396: mixamorig:LeftHandIndex4
+    400398: mixamorig:LeftLeg
+    400400: mixamorig:LeftShoulder
+    400402: mixamorig:LeftToe_End
+    400404: mixamorig:LeftToeBase
+    400406: mixamorig:LeftUpLeg
+    400408: mixamorig:Neck
+    400410: mixamorig:RightArm
+    400412: mixamorig:RightFoot
+    400414: mixamorig:RightForeArm
+    400416: mixamorig:RightHand
+    400418: mixamorig:RightHandIndex1
+    400420: mixamorig:RightHandIndex2
+    400422: mixamorig:RightHandIndex3
+    400424: mixamorig:RightHandIndex4
+    400426: mixamorig:RightLeg
+    400428: mixamorig:RightShoulder
+    400430: mixamorig:RightToe_End
+    400432: mixamorig:RightToeBase
+    400434: mixamorig:RightUpLeg
+    400436: mixamorig:Spine
+    400438: mixamorig:Spine1
+    400440: mixamorig:Spine2
+    400442: pyronTorch
+    400444: shieldShape
+    400446: swordShape
+    2300000: shieldShape
+    2300002: swordShape
+    3300000: shieldShape
+    3300002: swordShape
+    4300000: BlackSmith_Body
+    4300002: hammer
+    4300004: pyronTorch
+    4300006: gladiator_body
+    4300008: shieldShape
+    4300010: swordShape
+    7400000: StandUp
+    7400002: Null
+    7400004: AttackHammer
+    7400006: Death01
+    7400008: Walk
+    7400010: IdleBreath
+    7400012: AirFly
+    7400014: Stunned
+    9500000: //RootNode
+    13700000: BlackSmith_Body
+    13700002: gladiator_body
+    13700004: hammer
+    13700006: pyronTorch
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations:
+    - name: Stunned
+      takeName: Stunned
+      firstFrame: 0
+      lastFrame: 65
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      transformMask: []
+    - name: StandUp
+      takeName: StandUp
+      firstFrame: 0
+      lastFrame: 72
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      transformMask: []
+    - name: Null
+      takeName: Null
+      firstFrame: -1
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      transformMask: []
+    - name: AttackHammer
+      takeName: AttackHammer
+      firstFrame: 0
+      lastFrame: 35
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      transformMask: []
+    - name: Death01
+      takeName: Death01
+      firstFrame: 0
+      lastFrame: 65
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      transformMask: []
+    - name: Walk
+      takeName: Walk
+      firstFrame: 0
+      lastFrame: 36
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      transformMask: []
+    - name: IdleBreath
+      takeName: IdleBreath
+      firstFrame: 0
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      transformMask: []
+    - name: AirFly
+      takeName: AirFly
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      transformMask: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: Blacksmith_Hips
+      humanName: Hips
+      limit:
+        min: {x: -40, y: -40, z: -40}
+        max: {x: 40, y: 40, z: 40}
+        value: {x: .0559998862, y: 0, z: .0279999431}
+        preQ: {x: .500000298, y: .499999732, z: -.499999911, w: -.5}
+        postQ: {x: .500000238, y: .499999732, z: -.499999911, w: -.5}
+        length: .0699998736
+        modified: 1
+    - boneName: Blacksmith_LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: -60.0000038, y: -60.0000038, z: -90}
+        max: {x: 60.0000038, y: 60.0000038, z: 50}
+        value: {x: .287493527, y: 0, z: .143746763}
+        preQ: {x: -.592276156, y: .386275589, z: -.592276216, w: .38627556}
+        postQ: {x: -.472094417, y: .526428342, z: -.472094566, w: .526428282}
+        length: .359367043
+        modified: 1
+    - boneName: Blacksmith_RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: -60.0000038, y: -60.0000038, z: -90}
+        max: {x: 60.0000038, y: 60.0000038, z: 50}
+        value: {x: .287493467, y: 0, z: .143746734}
+        preQ: {x: -.592276275, y: .38627544, z: -.592276216, w: .38627556}
+        postQ: {x: -.472094566, y: .526428223, z: -.472094506, w: .526428342}
+        length: .359366983
+        modified: 1
+    - boneName: Blacksmith_LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: -90, y: 0, z: -80}
+        max: {x: 90, y: 0, z: 80}
+        value: {x: .267181814, y: 0, z: .133590907}
+        preQ: {x: -.0153293619, y: .706940532, z: -.0153293684, w: .706940532}
+        postQ: {x: -.466124535, y: .531721652, z: -.466124564, w: .531721592}
+        length: .333977401
+        modified: 1
+    - boneName: Blacksmith_RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: -90, y: 0, z: -80}
+        max: {x: 90, y: 0, z: 80}
+        value: {x: .267181724, y: 0, z: .133590862}
+        preQ: {x: -.0153293209, y: .706940591, z: -.0153293014, w: .706940532}
+        postQ: {x: -.466124475, y: .531721652, z: -.466124505, w: .531721592}
+        length: .333977282
+        modified: 1
+    - boneName: Blacksmith_LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: -30.0000019, z: -50}
+        max: {x: 0, y: 30.0000019, z: 50}
+        value: {x: .0767365173, y: 0, z: .0383682586}
+        preQ: {x: -.49999997, y: .49999997, z: -.49999997, w: .49999997}
+        postQ: {x: -.49999997, y: .49999997, z: -.5, w: .5}
+        length: .095920682
+        modified: 1
+    - boneName: Blacksmith_RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: -30.0000019, z: -50}
+        max: {x: 0, y: 30.0000019, z: 50}
+        value: {x: .0767365396, y: 0, z: .0383682698}
+        preQ: {x: -.49999997, y: .49999997, z: -.49999997, w: .49999997}
+        postQ: {x: -.49999997, y: .49999997, z: -.5, w: .5}
+        length: .0959207118
+        modified: 1
+    - boneName: Blacksmith_Spine
+      humanName: Spine
+      limit:
+        min: {x: -40, y: -40, z: -40}
+        max: {x: 40, y: 40, z: 40}
+        value: {x: .100637361, y: 0, z: .0503186807}
+        preQ: {x: -.50657177, y: -.493340611, z: .506572068, w: .493340373}
+        postQ: {x: -.50657177, y: -.493340582, z: .506572068, w: .493340343}
+        length: .125796735
+        modified: 1
+    - boneName: Blacksmith_Spine1
+      humanName: Chest
+      limit:
+        min: {x: -40, y: -40, z: -40}
+        max: {x: 40, y: 40, z: 40}
+        value: {x: .201362476, y: 0, z: .100681238}
+        preQ: {x: .509821951, y: .489981145, z: -.509821892, w: -.489981174}
+        postQ: {x: .509821951, y: .489981174, z: -.509821892, w: -.489981204}
+        length: .251703173
+        modified: 1
+    - boneName: Blacksmith_Neck
+      humanName: Neck
+      limit:
+        min: {x: -40, y: -40, z: -40}
+        max: {x: 40, y: 40, z: 40}
+        value: {x: .0406994447, y: 0, z: .0203497224}
+        preQ: {x: -.46999076, y: -.528307259, z: .469990373, w: .528307736}
+        postQ: {x: -.46999079, y: -.528307259, z: .469990402, w: .528307736}
+        length: .0508743227
+        modified: 1
+    - boneName: Blacksmith_Head
+      humanName: Head
+      limit:
+        min: {x: -40, y: -40, z: -40}
+        max: {x: 40, y: 40, z: 40}
+        value: {x: .0406994447, y: 0, z: .0203497224}
+        preQ: {x: -.49999997, y: -.49999997, z: .49999997, w: .49999997}
+        postQ: {x: -.49999997, y: -.49999997, z: .5, w: .5}
+        length: .0508743227
+        modified: 1
+    - boneName: Blacksmith_LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: -15.000001, z: -15.000001}
+        max: {x: 0, y: 15.000001, z: 30.0000019}
+        value: {x: .0866655186, y: 0, z: .0433327593}
+        preQ: {x: -.0762442127, y: 5.15139675e-07, z: .997089148, w: 6.64327354e-06}
+        postQ: {x: -.0762442127, y: 4.7561997e-07, z: .997089148, w: 6.66324377e-06}
+        length: .108331934
+        modified: 1
+    - boneName: Blacksmith_RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: -15.000001, z: -15.000001}
+        max: {x: 0, y: 15.000001, z: 30.0000019}
+        value: {x: .0866655931, y: 0, z: .0433327965}
+        preQ: {x: -4.32825743e-07, y: .0762434751, z: 5.56685609e-06, w: .997089207}
+        postQ: {x: -4.26535166e-07, y: .0762434527, z: 5.55038878e-06, w: .997089207}
+        length: .108332023
+        modified: 1
+    - boneName: Blacksmith_LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: -90, y: -100, z: -60.0000038}
+        max: {x: 90, y: 100, z: 100}
+        value: {x: .170572594, y: 0, z: .0852862969}
+        preQ: {x: .244210407, y: -1.44520129e-07, z: .911231816, w: -.331689239}
+        postQ: {x: 2.49261348e-07, y: 2.27571054e-13, z: .99999994, w: -8.55551264e-07}
+        length: .213215813
+        modified: 1
+    - boneName: Blacksmith_RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: -90, y: -100, z: -60.0000038}
+        max: {x: 90, y: 100, z: 100}
+        value: {x: .170572817, y: 0, z: .0852864087}
+        preQ: {x: -2.46405079e-07, y: -.244210184, z: -.33168745, w: .911232531}
+        postQ: {x: -8.44955128e-09, y: 5.24157073e-08, z: 1.10130236e-06, w: .99999994}
+        length: .213216096
+        modified: 1
+    - boneName: Blacksmith_LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: -90, y: 0, z: -80}
+        max: {x: 90, y: 0, z: 80}
+        value: {x: .166952178, y: 0, z: .0834760889}
+        preQ: {x: .45448795, y: .541702151, z: .541701734, w: -.454487264}
+        postQ: {x: 1.62429572e-07, y: .707106709, z: .707106769, w: 6.48393041e-07}
+        length: .208690286
+        modified: 1
+    - boneName: Blacksmith_RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: -90, y: 0, z: -80}
+        max: {x: 90, y: 0, z: 80}
+        value: {x: .166951984, y: 0, z: .0834759921}
+        preQ: {x: .541701436, y: .454487175, z: .454488188, w: -.541702151}
+        postQ: {x: .707106769, y: -6.58386114e-07, z: 5.53368181e-07, w: -.707106709}
+        length: .208690047
+        modified: 1
+    - boneName: Blacksmith_LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: -40, z: -80}
+        max: {x: 0, y: 40, z: 80}
+        value: {x: .0834760889, y: 0, z: .0417380445}
+        preQ: {x: -3.43628017e-07, y: 1.05638209e-09, z: .99999994, w: 5.73338184e-07}
+        postQ: {x: -3.35178498e-07, y: 1.68991861e-08, z: .99999994, w: 5.73338127e-07}
+        length: .104345143
+        modified: 1
+    - boneName: Blacksmith_RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: -40, z: -80}
+        max: {x: 0, y: 40, z: 80}
+        value: {x: .0834759921, y: 0, z: .041737996}
+        preQ: {x: -8.44934522e-09, y: 7.42587929e-08, z: -8.56839677e-07, w: .99999994}
+        postQ: {x: 1.12295739e-13, y: 1.20731016e-07, z: -8.48390187e-07, w: .99999994}
+        length: .104345024
+        modified: 1
+    - boneName: Blacksmith_LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: -50}
+        max: {x: 0, y: 0, z: 50}
+        value: {x: .0426510237, y: 0, z: .0213255119}
+        preQ: {x: .707106769, y: 4.20097762e-10, z: .707106769, w: -2.33387365e-10}
+        postQ: {x: .707106769, y: -9.3353561e-11, z: .707106769, w: -9.33541439e-11}
+        length: .0533137992
+        modified: 1
+    - boneName: Blacksmith_RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: -50}
+        max: {x: 0, y: 0, z: 50}
+        value: {x: .0426510125, y: 0, z: .0213255063}
+        preQ: {x: .707106769, y: 1.40032166e-10, z: .707106769, w: -1.40032166e-10}
+        postQ: {x: .707106829, y: 4.6677124e-11, z: .707106709, w: -4.66771378e-11}
+        length: .0533137843
+        modified: 1
+    - boneName: Blacksmith_LeftHandThumb1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: -25, z: -20}
+        max: {x: 0, y: 25, z: 20}
+        value: {x: .0156913772, y: 0, z: .00784568861}
+        preQ: {x: .230261475, y: .637539744, z: .595717609, w: -.430863291}
+        postQ: {x: .109527268, y: .554986596, z: .685388148, w: -.458515853}
+        length: .0196142308
+        modified: 1
+    - boneName: Blacksmith_LeftHandThumb2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -40}
+        max: {x: 0, y: 0, z: 35}
+        value: {x: .0190900601, y: 0, z: .00954503007}
+        preQ: {x: -.0317564011, y: .57271868, z: .763709605, w: -.296196669}
+        postQ: {x: -.0323048346, y: .546376765, z: .764625132, w: -.340260357}
+        length: .0238625836
+        modified: 1
+    - boneName: Blacksmith_LeftHandThumb3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: -40}
+        max: {x: 0, y: 0, z: 35}
+        value: {x: .014317546, y: 0, z: .00715877302}
+        preQ: {x: -.143601969, y: .540870547, z: .808152139, w: -.183650374}
+        postQ: {x: -.000348847301, y: .567704618, z: .77893889, w: -.266393423}
+        length: .0178969372
+        modified: 1
+    - boneName: Blacksmith_LeftHandIndex1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: -20, z: -50}
+        max: {x: 0, y: 20, z: 50}
+        value: {x: .0300421771, y: 0, z: .0150210885}
+        preQ: {x: .107557908, y: .0112792831, z: .963844657, w: -.243531287}
+        postQ: {x: .0982623994, y: -.00455912994, z: .994405508, w: .0384854749}
+        length: .0375527292
+        modified: 1
+    - boneName: Blacksmith_LeftHandIndex2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: .021299446, y: 0, z: .010649723}
+        preQ: {x: .08439105, y: -.0182633754, z: .947186589, w: -.308839828}
+        postQ: {x: .0589167811, y: -.0177917518, z: .98952508, w: -.13058427}
+        length: .0266243163
+        modified: 1
+    - boneName: Blacksmith_LeftHandIndex3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: .0159745831, y: 0, z: .00798729155}
+        preQ: {x: .0483478419, y: -.0199338514, z: .899086654, w: -.434635699}
+        postQ: {x: .0587905087, y: -.0177751053, z: .98953265, w: -.130586535}
+        length: .0199682377
+        modified: 1
+    - boneName: Blacksmith_LeftHandMiddle1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: -7.50000048, z: -50}
+        max: {x: 0, y: 7.50000048, z: 50}
+        value: {x: .028126251, y: 0, z: .0140631255}
+        preQ: {x: .0455019735, y: .00293766917, z: .963750303, w: -.262880504}
+        postQ: {x: .00749741029, y: -.000189227605, z: .999653459, w: .0252318326}
+        length: .0351578221
+        modified: 1
+    - boneName: Blacksmith_LeftHandMiddle2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: .0223090481, y: 0, z: .0111545241}
+        preQ: {x: .00267599174, y: .00091344153, z: .946379602, w: -.323044449}
+        postQ: {x: -.0129961669, y: -.000470744213, z: .99146688, w: -.129708081}
+        length: .027886318
+        modified: 1
+    - boneName: Blacksmith_LeftHandMiddle3
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: .0167317837, y: 0, z: .00836589187}
+        preQ: {x: -.0127189187, y: .00538267707, z: .900879204, w: -.433849841}
+        postQ: {x: -.0129961725, y: -.000470726663, z: .99146688, w: -.129708096}
+        length: .020914739
+        modified: 1
+    - boneName: Blacksmith_RightHandThumb1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: -25, z: -20}
+        max: {x: 0, y: 25, z: 20}
+        value: {x: .015691597, y: 0, z: .00784579851}
+        preQ: {x: .637540281, y: .230260819, z: .430862278, w: -.595717967}
+        postQ: {x: -.554977059, y: -.109510966, z: -.458529264, w: .6853894}
+        length: .0196145047
+        modified: 1
+    - boneName: Blacksmith_RightHandThumb2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -40}
+        max: {x: 0, y: 0, z: 35}
+        value: {x: .0190898869, y: 0, z: .00954494346}
+        preQ: {x: .572708189, y: -.0317640081, z: .296202689, w: -.76371485}
+        postQ: {x: -.546378374, y: .0322993472, z: -.340256989, w: .764625847}
+        length: .0238623675
+        modified: 1
+    - boneName: Blacksmith_RightHandThumb3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: -40}
+        max: {x: 0, y: 0, z: 35}
+        value: {x: .0143174166, y: 0, z: .00715870829}
+        preQ: {x: .540870249, y: -.143595785, z: .183646962, w: -.808154225}
+        postQ: {x: -.567704022, y: .000349640846, z: -.266393185, w: .778939366}
+        length: .0178967752
+        modified: 1
+    - boneName: Blacksmith_RightHandIndex1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: -20, z: -50}
+        max: {x: 0, y: 20, z: 50}
+        value: {x: .0300417654, y: 0, z: .0150208827}
+        preQ: {x: .0112787997, y: .107556768, z: .243535355, w: -.963843763}
+        postQ: {x: .00455907965, y: -.0982565209, z: .0384749286, w: .994406581}
+        length: .0375522152
+        modified: 1
+    - boneName: Blacksmith_RightHandIndex2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: .0212997179, y: 0, z: .010649859}
+        preQ: {x: -.0182629041, y: .0843832046, z: .308852494, w: -.947183192}
+        postQ: {x: .0177993346, y: -.0589944758, z: -.130564332, w: .989522934}
+        length: .0266246572
+        modified: 1
+    - boneName: Blacksmith_RightHandIndex3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: .015974788, y: 0, z: .007987394}
+        preQ: {x: -.0199674312, y: .0484198257, z: .43461737, w: -.899090886}
+        postQ: {x: .0347512104, y: .052639246, z: -.17335394, w: .982837617}
+        length: .0199684929
+        modified: 1
+    - boneName: Blacksmith_RightHandMiddle1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: -7.50000048, z: -50}
+        max: {x: 0, y: 7.50000048, z: 50}
+        value: {x: .0281261932, y: 0, z: .0140630966}
+        preQ: {x: .00293753343, y: .0455019102, z: .262883723, w: -.963749468}
+        postQ: {x: .000189337603, y: -.00749201002, z: .0252284706, w: .999653578}
+        length: .0351577513
+        modified: 1
+    - boneName: Blacksmith_RightHandMiddle2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: .0223090518, y: 0, z: .0111545259}
+        preQ: {x: .000915337529, y: .00267140637, z: .323048472, w: -.946378112}
+        postQ: {x: .000482505275, y: .0129049774, z: -.129713431, w: .991467416}
+        length: .0278863236
+        modified: 1
+    - boneName: Blacksmith_RightHandMiddle3
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: .0167317875, y: 0, z: .00836589374}
+        preQ: {x: .00534324348, y: -.0126360552, z: .433855236, w: -.900877953}
+        postQ: {x: .000376988552, y: .0137114897, z: -.129713789, w: .991456568}
+        length: .0209147427
+        modified: 1
+    skeleton:
+    - name: blacksmith
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: .99999994}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Blacksmith_Reference
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: 0, w: .99999994}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Blacksmith_Hips
+      position: {x: -1.89114804e-08, y: .846969068, z: .0524861217}
+      rotation: {x: -2.64046762e-09, y: -1.68989924e-08, z: 1.32023381e-09, w: .99999994}
+      scale: {x: .999999881, y: 1, z: 1}
+      transformModified: 1
+    - name: Blacksmith_LeftUpLeg
+      position: {x: -.089099966, y: -.0627000332, z: -1.22208768e-08}
+      rotation: {x: 2.6404674e-09, y: 5.06969755e-08, z: 2.90451396e-09, w: .99999994}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Blacksmith_LeftLeg
+      position: {x: -1.30226612e-08, y: -.357245207, z: -.0389939137}
+      rotation: {x: 1.68989924e-08, y: -3.37979813e-08, z: -2.11237392e-08, w: .99999994}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Blacksmith_LeftFoot
+      position: {x: -2.37103084e-08, y: -.331103325, z: -.0437215269}
+      rotation: {x: -1.67669683e-08, y: -8.44949621e-09, z: 1.64369087e-08, w: .99999994}
+      scale: {x: 1.00000012, y: 1, z: .99999994}
+      transformModified: 1
+    - name: Blacksmith_LeftToeBase
+      position: {x: -3.85693113e-08, y: -.0572262444, z: .0899700075}
+      rotation: {x: -2.64046424e-10, y: 1.77629575e-15, z: 4.62083316e-10, w: .99999994}
+      scale: {x: .99999994, y: .99999994, z: 1}
+      transformModified: 1
+    - name: Blacksmith_RightUpLeg
+      position: {x: .0890999809, y: -.0627000928, z: -4.80459974e-08}
+      rotation: {x: 6.86521551e-09, y: 1.68989924e-08, z: 7.9214002e-10, w: .99999994}
+      scale: {x: .99999994, y: .99999994, z: .999999881}
+      transformModified: 1
+    - name: Blacksmith_RightLeg
+      position: {x: 4.5455419e-08, y: -.357245207, z: -.0389938243}
+      rotation: {x: 3.56969893e-17, y: 1.68989907e-08, z: -2.74608585e-08, w: .99999994}
+      scale: {x: 1, y: .999999881, z: .99999994}
+      transformModified: 1
+    - name: Blacksmith_RightFoot
+      position: {x: -1.73613579e-09, y: -.331103265, z: -.0437215902}
+      rotation: {x: -4.22474722e-09, y: -3.37979849e-08, z: 2.51504488e-08, w: .99999994}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Blacksmith_RightToeBase
+      position: {x: 7.46795763e-08, y: -.0572262406, z: .0899699926}
+      rotation: {x: 9.0174414e-24, y: -3.37979706e-08, z: 1.32023961e-10, w: .99999994}
+      scale: {x: 1, y: 1.00000012, z: .99999994}
+      transformModified: 1
+    - name: Blacksmith_Spine
+      position: {x: 4.83039386e-08, y: .0699998736, z: -2.9432659e-08}
+      rotation: {x: 2.37642066e-08, y: 1.68989924e-08, z: 7.12926163e-09, w: .99999994}
+      scale: {x: .99999994, y: 1, z: .99999994}
+      transformModified: 1
+    - name: Blacksmith_Spine1
+      position: {x: -5.68848542e-08, y: .125752687, z: -.0033286605}
+      rotation: {x: -1.26742439e-08, y: -1.21592877e-16, z: -8.44949533e-09, w: .99999994}
+      scale: {x: .99999994, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: Blacksmith_Spine2
+      position: {x: 1.29886573e-07, y: .12575233, z: -.00665735593}
+      rotation: {x: -1.32023359e-09, y: 1.16180559e-08, z: -1.68989907e-08, w: .99999994}
+      scale: {x: .99999994, y: 1, z: 1}
+      transformModified: 1
+    - name: Blacksmith_LeftShoulder
+      position: {x: -.0407069251, y: .0535429716, z: -1.98966053e-08}
+      rotation: {x: -4.09272438e-08, y: 5.28093569e-09, z: 1.68989907e-08, w: .99999994}
+      scale: {x: 1.00000012, y: .999999821, z: 1}
+      transformModified: 1
+    - name: Blacksmith_LeftArm
+      position: {x: -.10707248, y: 1.43175328e-06, z: -.0164712891}
+      rotation: {x: 3.37979849e-08, y: -8.44949533e-09, z: -1.68989924e-08, w: .99999994}
+      scale: {x: 1, y: 1, z: .999999821}
+      transformModified: 1
+    - name: Blacksmith_LeftForeArm
+      position: {x: -.213215858, y: -3.65078449e-07, z: 1.06048638e-07}
+      rotation: {x: 1.05618392e-09, y: -8.44949621e-09, z: 1.90113667e-08, w: .99999994}
+      scale: {x: 1.00000024, y: 1.00000036, z: 1.00000036}
+      transformModified: 1
+    - name: Blacksmith_LeftForeArmRoll
+      position: {x: -.104345083, y: 2.42223519e-10, z: -1.15682639e-07}
+      rotation: {x: 1.22124522e-15, y: -4.74100884e-18, z: -4.44089183e-16, w: .99999994}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Blacksmith_LeftHand
+      position: {x: -.104345232, y: 2.23759628e-07, z: -2.81383166e-08}
+      rotation: {x: 1.58428008e-08, y: -8.44949533e-09, z: -2.13120319e-16, w: .99999994}
+      scale: {x: 1.00000012, y: .999999821, z: .999999583}
+      transformModified: 1
+    - name: Blacksmith_LeftFingerBase
+      position: {x: -.0599253774, y: .00500869565, z: -.00171059673}
+      rotation: {x: 1.77635673e-15, y: -3.7523301e-24, z: -1.50093188e-23, w: .99999994}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Blacksmith_LeftHandIndex1
+      position: {x: -.0262323618, y: .00216376875, z: .0379025079}
+      rotation: {x: -.00624486245, y: -.0658349544, z: -.00575020537, w: .99779439}
+      scale: {x: 1, y: 1, z: .99999994}
+      transformModified: 1
+    - name: Blacksmith_LeftHandIndex2
+      position: {x: -.0367162824, y: .00284064095, z: .00735193491}
+      rotation: {x: -.0242083408, y: .0318619758, z: -.133208126, w: .990279913}
+      scale: {x: .999999881, y: .999999881, z: .99999994}
+      transformModified: 1
+    - name: Blacksmith_LeftHandIndex3
+      position: {x: -.0255314987, y: -.00693643373, z: .00298066367}
+      rotation: {x: -1.6902586e-08, y: .000127604289, z: 2.10590478e-09, w: .99999994}
+      scale: {x: 1.00000012, y: 1.00000036, z: 1.00000048}
+      transformModified: 1
+    - name: Blacksmith_LeftHandIndex4
+      position: {x: -.0219604485, y: -.00644254591, z: .00125703239}
+      rotation: {x: -1.6872626e-08, y: -.00146738708, z: -4.19993285e-09, w: .999998868}
+      scale: {x: 1.00000012, y: 1, z: .999999642}
+      transformModified: 1
+    - name: Blacksmith_LeftHandMiddle1
+      position: {x: -.029536128, y: .00422275346, z: -.00682429224}
+      rotation: {x: -6.33712416e-09, y: -8.44949533e-09, z: 1.84832718e-08, w: .99999994}
+      scale: {x: 1, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: Blacksmith_LeftHandMiddle2
+      position: {x: -.0351091027, y: .00177347974, z: .000527337834}
+      rotation: {x: -.000998599571, y: .0157902185, z: -.119588666, w: .992697418}
+      scale: {x: .999999821, y: 1, z: 1}
+      transformModified: 1
+    - name: Blacksmith_LeftHandMiddle3
+      position: {x: -.0269385576, y: -.00717211189, z: -.000722049968}
+      rotation: {x: 1.68989924e-08, y: 8.44949533e-09, z: -1.68989871e-08, w: .99999994}
+      scale: {x: 1, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: Blacksmith_LeftHandMiddle4
+      position: {x: -.0236948133, y: -.0062041278, z: .000634784403}
+      rotation: {x: 1.20648673e-24, y: -1.42787984e-16, z: 8.88178367e-16, w: .99999994}
+      scale: {x: 1, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: Blacksmith_LeftHandThumb1
+      position: {x: -.0457710624, y: -.0184941329, z: .0249738134}
+      rotation: {x: -.152965754, y: -.0621843264, z: -.176765174, w: .970303357}
+      scale: {x: 1.00000012, y: 1.00000024, z: 1.0000006}
+      transformModified: 1
+    - name: Blacksmith_LeftHandThumb2
+      position: {x: -.010896326, y: -.00994347967, z: .0129272779}
+      rotation: {x: -.0864781365, y: .139030278, z: .0340489596, w: .985917211}
+      scale: {x: .999999762, y: .999999762, z: 1}
+      transformModified: 1
+    - name: Blacksmith_LeftHandThumb3
+      position: {x: -.0182873011, y: -.0132591743, z: .00769371865}
+      rotation: {x: .0169742033, y: .0227194, z: .079499878, w: .996431351}
+      scale: {x: 1, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: Blacksmith_LeftHandThumb4
+      position: {x: -.037267983, y: -.0146014541, z: .0121299699}
+      rotation: {x: 7.10542693e-15, y: -2.03962209e-15, z: -8.8817842e-16, w: .99999994}
+      scale: {x: 1, y: 1.00000012, z: .999999881}
+      transformModified: 1
+    - name: Blacksmith_Neck
+      position: {x: -1.20781465e-07, y: .125752687, z: -.00332866353}
+      rotation: {x: -7.12926118e-09, y: -2.0067553e-08, z: 6.02386605e-17, w: .99999994}
+      scale: {x: 1, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: Blacksmith_Head
+      position: {x: 3.91658368e-08, y: .0505282879, z: .00592356827}
+      rotation: {x: 9.16892784e-17, y: 2.53484878e-08, z: 8.44949355e-09, w: .99999994}
+      scale: {x: 1.00000024, y: 1, z: .999999702}
+      transformModified: 1
+    - name: Blacksmith_RightShoulder
+      position: {x: .0407066271, y: .0535430908, z: 6.21581286e-10}
+      rotation: {x: -5.01688779e-09, y: 2.21799255e-08, z: 1.68989907e-08, w: .99999994}
+      scale: {x: .99999994, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: Blacksmith_RightArm
+      position: {x: .107072599, y: 1.19236461e-06, z: -.0164711382}
+      rotation: {x: 6.33712194e-09, y: -3.37979813e-08, z: 1.68989907e-08, w: .99999994}
+      scale: {x: 1.00000024, y: .999999821, z: 1}
+      transformModified: 1
+    - name: Blacksmith_RightForeArm
+      position: {x: .213216126, y: 4.69875204e-07, z: -2.18631371e-08}
+      rotation: {x: 2.63308429e-15, y: 5.06969648e-08, z: -1.68989907e-08, w: .99999994}
+      scale: {x: 1.00000012, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: Blacksmith_RightForeArmRoll
+      position: {x: .104345083, y: 1.34309033e-07, z: 1.28323876e-07}
+      rotation: {x: 8.88178367e-16, y: -6.50911379e-24, z: -7.70354972e-16, w: .99999994}
+      scale: {x: .99999994, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: Blacksmith_RightHand
+      position: {x: .104345024, y: -4.76638519e-07, z: -1.58523477e-07}
+      rotation: {x: -8.44949799e-09, y: -4.64722163e-08, z: -8.44949533e-09, w: .99999994}
+      scale: {x: 1.00000036, y: 1, z: .999999523}
+      transformModified: 1
+    - name: Blacksmith_HammerHook
+      position: {x: -.133818477, y: .575081646, z: -.29317075}
+      rotation: {x: -.646585882, y: -.745630085, z: .156280085, w: -.0392305404}
+      scale: {x: .999999881, y: 1, z: 1}
+      transformModified: 1
+    - name: Blacksmith_RightFingerBase
+      position: {x: .0599254966, y: .00500905793, z: -.00171069207}
+      rotation: {x: -1.26528172e-15, y: -1.06909932e-23, z: 1.77635673e-15, w: .99999994}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Blacksmith_RightHandIndex1
+      position: {x: .0262324214, y: .00216376688, z: .0379025787}
+      rotation: {x: -.00624469435, y: .0658302158, z: .0057566124, w: .997794688}
+      scale: {x: 1, y: 1.00000012, z: .999999881}
+      transformModified: 1
+    - name: Blacksmith_RightHandIndex2
+      position: {x: .0367159508, y: .00283980276, z: .00735139893}
+      rotation: {x: -.0242126267, y: -.0317761227, z: .13317515, w: .990287006}
+      scale: {x: 1.00000048, y: 1.00000012, z: 1.00000048}
+      transformModified: 1
+    - name: Blacksmith_RightHandIndex3
+      position: {x: .025531549, y: -.00693547912, z: .00298475358}
+      rotation: {x: -.0339929983, y: -.108618051, z: .0402271003, w: .992687464}
+      scale: {x: .999999642, y: .99999994, z: .999999702}
+      transformModified: 1
+    - name: Blacksmith_RightHandIndex4
+      position: {x: .0165715739, y: -.00644230517, z: -.00329186325}
+      rotation: {x: 1.68029111e-08, y: .00287104142, z: -2.64531845e-08, w: .999995828}
+      scale: {x: .99999994, y: .99999994, z: .999999821}
+      transformModified: 1
+    - name: Blacksmith_RightHandMiddle1
+      position: {x: .029536128, y: .00422298908, z: -.00682431785}
+      rotation: {x: 8.44963921e-09, y: -5.32740569e-06, z: 6.33716724e-09, w: .99999994}
+      scale: {x: 1, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: Blacksmith_RightHandMiddle2
+      position: {x: .0351090506, y: .00177323679, z: .000526957505}
+      rotation: {x: -.00100894156, y: -.0156941041, z: .119589709, w: .992698789}
+      scale: {x: 1, y: .99999994, z: 1}
+      transformModified: 1
+    - name: Blacksmith_RightHandMiddle3
+      position: {x: .0269386247, y: -.00717234425, z: -.000717093819}
+      rotation: {x: -7.26328329e-12, y: -.000813458581, z: 1.37491572e-11, w: .999999642}
+      scale: {x: 1.00000024, y: 1, z: 1.00000024}
+      transformModified: 1
+    - name: Blacksmith_RightHandMiddle4
+      position: {x: .0236956496, y: -.00620448682, z: .00060049165}
+      rotation: {x: -8.38831227e-09, y: .00433845585, z: -8.48628634e-09, w: .999990582}
+      scale: {x: 1.00000036, y: 1.00000048, z: 1.00000024}
+      transformModified: 1
+    - name: Blacksmith_RightHandThumb1
+      position: {x: .0457711257, y: -.0184935275, z: .0249737725}
+      rotation: {x: -.152980551, y: .0621857531, z: .176782697, w: .970297754}
+      scale: {x: .999999642, y: 1.00000012, z: 1.00000024}
+      transformModified: 1
+    - name: Blacksmith_RightHandThumb2
+      position: {x: .0108962059, y: -.00994432345, z: .0129271857}
+      rotation: {x: -.0864660218, y: -.139027104, z: -.034065254, w: .985918164}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: Blacksmith_RightHandThumb3
+      position: {x: .0182872452, y: -.0132586937, z: .00769382576}
+      rotation: {x: .0169708896, y: -.0227218606, z: -.0794939175, w: .996431828}
+      scale: {x: 1, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: Blacksmith_RightHandThumb4
+      position: {x: .0372680388, y: -.0146014998, z: .0121297874}
+      rotation: {x: -1.77635663e-15, y: -3.55271347e-15, z: 1.77635673e-15, w: .99999994}
+      scale: {x: .99999994, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: Blacksmith_TorchHook
+      position: {x: -1.19897509, y: -.186104536, z: .121648602}
+      rotation: {x: -.646585822, y: -.745630026, z: .1562801, w: -.0392305367}
+      scale: {x: 9.99999829e-05, y: 9.99999975e-05, z: 9.99999902e-05}
+      transformModified: 1
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 3
+  userData: 
